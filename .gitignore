@@ -1,0 +1,8 @@
+
+# Ignore build/server files
+/node_modules
+/dist
+/build
+/logs
+*.log
+*.tmp
