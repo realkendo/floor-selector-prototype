@@ -21,6 +21,7 @@ The UI features **smooth animations** and a **modern, responsive design**.
 
 -  **Static data** – No backend or live data; all content is hardcoded
 -  **No authentication** – User accounts and personalization are not supported
+-  **Minimal styling and animations** – effects and styles are basic and no attention was paid to brand colors, dark mode or light mode features 
 -  **No real booking** – Apartment availability is static and non-interactive
 -  **No filter or search functionality** – Users cannot sort or filter apartment listings
 -  **Placeholder images** – Used instead of real property photos
