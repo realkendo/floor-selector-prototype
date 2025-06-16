@@ -17,9 +17,26 @@ The UI features **smooth animations** and a **modern, responsive design**.
 
 ---
 
+## ⚠️ Known Limitations
+
+-  **Static data** – No backend or live data; all content is hardcoded
+-  **No authentication** – User accounts and personalization are not supported
+-  **No real booking** – Apartment availability is static and non-interactive
+-  **No filter or search functionality** – Users cannot sort or filter apartment listings
+-  **Placeholder images** – Used instead of real property photos
+
+> This project is a prototype intended for demo purposes only.
+---
+
 ## 🚀 Getting Started
 
 Install dependencies:
+```npm install```
 
-```bash
-npm install
+Start server: 
+```npm start```
+
+
+
+
+ 
